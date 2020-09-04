@@ -20,3 +20,12 @@ I consider myself a person with good spirits, sincere, committed, passionate abo
 <code><img height="30" src="https://f0.pngfuel.com/png/747/798/blue-and-white-happy-new-year-text-mysql-png-clip-art-thumbnail.png" title="MySQL"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" title="MongoDB"></code>   
 <br>
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiancamilo01&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiancamilo01&show_icons=true&include_all_commits=true&theme=radical" alt="tiancamilo01 github stats" />
+</a>
